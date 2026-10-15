@@ -9,6 +9,9 @@ const source=await readFile(new URL('../src/main.js',import.meta.url),'utf8');
 for(const match of source.matchAll(/['"](\d{3}-\d)['"]/g))images.add(match[1]);
 const missing=[];
 for(const name of images){try{await access(new URL(`../public/images/${name}.webp`,import.meta.url));}catch{missing.push(name);}}
+for(const name of ['happypc-official.webp','happypc-piter-logo.jpg']){
+ try{await access(new URL(`../public/images/${name}`,import.meta.url));}catch{missing.push(name);}
+}
 if(missing.length)throw new Error(`Missing images: ${missing.join(', ')}`);
 for(const item of [...products,...cases]){
  if(!/^\d+$/.test(item.source))throw new Error(`Missing original publication for ${item.id}`);
