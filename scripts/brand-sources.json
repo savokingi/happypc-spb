@@ -2,11 +2,11 @@
   "officialLogo": {
     "source": "https://happypc.ru/tpls/pc/define/images/logo_1.webp",
     "file": "public/images/happypc-official.webp",
-    "usage": "Original HappyPC logo in the header and footer; no redraw or recoloring"
+    "usage": "Original network logo retained as a brand reference; no redraw or recoloring"
   },
   "telegramLogo": {
     "source": "https://t.me/HappyPC_Piter",
     "file": "public/images/happypc-piter-logo.jpg",
-    "usage": "Original channel avatar in the workshop post, contacts and favicon"
+    "usage": "Original channel avatar in the header, footer, workshop post, contacts and favicon; no redraw or recoloring"
   }
 }

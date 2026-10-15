@@ -27,7 +27,7 @@ let toastTimer;
 let wizard = {step:0,task:'Для игр',budget:'150–250 тыс. ₽',programs:'',monitor:'',extras:[],comment:''};
 try { const saved=JSON.parse(sessionStorage.getItem('hpc-brief')); if(saved&&typeof saved==='object') wizard={...wizard,...saved,step:0}; } catch {}
 
-function brand(cls='') { return `<a class="brand ${cls}" href="#/" aria-label="HappyPC Питер — главная"><img class="official-logo" src="${base}images/happypc-official.webp" alt="Официальный логотип HappyPC" width="800" height="257"><span class="brand-city">Санкт-Петербург</span></a>`; }
+function brand(cls='') { return `<a class="brand ${cls}" href="#/" aria-label="HappyPC Питер — главная"><img class="brand-avatar" src="${base}images/happypc-piter-logo.jpg" alt="Логотип HappyPC SPB из Telegram" width="64" height="64"><span class="telegram-wordmark">HappyPC <b>SPB</b><small>Компьютерная мастерская</small></span></a>`; }
 function header(){
  const root = (location.hash.slice(1)||'/').split('/')[1];
  const nav = [['catalog','Компьютеры'],['repair','Ремонт'],['works','Наши работы'],['workshop','Мастерская']];
