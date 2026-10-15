@@ -1,0 +1,278 @@
+[
+  {
+    "id": "905",
+    "text": "Немного нашей атмосферы🥰\n\nА что вы бы поменяли или добавили?)\n\nВы всегда можете к нам обратиться и мы будем рады вам помочь:\n📍 Заказать сборку или апгрейд ПК можно, написав нам в сообщения группы HappyPC Питер или в Telegram: @SPBHappyPC +79313443444\n\n📩По вопросам обслуживания видеокарт/ноутбуков/игровых консолей можете связаться с нами:\n- написать в сообщения группы ВК HappyPC Питер или в Telegram: @happypcspb +79040444444",
+    "images": [
+      "https://cdn4.telesco.pe/file/imS7tAwcL1-crTtvmGsfJ8OTY-OocZi95YF1MC5S7pySBRoCdM20GIIEp23gGC_FB8q4u_OSnzrmFJQARpilvPrYedqBiszP5Ei1_9meUjLQUn9Mg4vTvVkx58KBkml99pdvjht1MdwulhflW9ysIXQmaxikQ06TfM4jK5WIqXJfhGNV08JGH0jToe6oPLPoyLEe8tN6NDRFWeSJUh6kRkowSKiMroslqXn75Z-JVCxgtnpMIcprkLtBCTg3gzW73EKPvIaGAivcNLjAzSkCvQRYvs-Y7mD71wC7NSggit58bikaKPH6KwSgTSIIJtoR-X_3RUr6zLEYOyl6YNZoUA.jpg",
+      "https://cdn4.telesco.pe/file/P1pZOwwiHoaHPyEbQfOJtn2KBbp6TwKQdUjPoSEv38nc2CdfZOKfLzfm9dRayvci5m7j6AGkiUjc5xq8qfJvwUffwnsGexsF6u1r8Bx5R2pKRZ9IvC1SooDyYxsLJSA4qZRsEBgHHcudSoKmiCR_jf6So39Er1JWQ9YYW-6PxcDHrY1jsWtsT3amhuTdyohTVq3d_o8UlmyJh8C3HB4GD9_W2AoCMhxEfku0XyQcX0-UiTRJHmCviDRQNuS7tBYoJ4YqpRbqyFwP6LP6ByVQXo9wuiNBxwBUGqHWZdsYtOziBJ56dwzDPp5_T6gGxv4ud2mUpJx9EAZCfZmiA8ZGQw.jpg",
+      "https://cdn4.telesco.pe/file/riddgmkYqybiw40q0okq0UfsKu-ljiqgsXk4jwL3n9yq9f0YJbdOtYDiYgL7aoeRRvok4KTO9HvXPeUVcB8sJ7l1oXgfLgG644X0TKZ5-RDbsI8pe-SdhErmYPaZnRWrb0FL4hVeuQIGKT2ocdyd-9ExKOR0qDhyZGKHMj8KDM5tBlXlsqCcJ3aGsYGIeDJ_mNKlBYWN1dPghhUsn9rGjVMDU6vSteXD0hptvgQebG2b0IrdVdhA_tT5QLlfXtDf2yMNU8MaU9FSlvfeJd3d0soTXxq7K6j3fAcciNaWZ88MsjDMsPAoLxdVQUS8gKma-9Da4awZDi77beND9podgQ.jpg",
+      "https://cdn4.telesco.pe/file/P--zmjq6v3ujERx1Ve5gLuT-qXicKGoOLQhAQfwj42Qa58aYCPnVfH0NlO1bPg-d3CP6xkYwbjUCwnYw2rKK01DFHDeDQAFOGdtiyvuZtPRXXIlHvHf9G3Rhwp273g9fKma4IAc4HTqbsDwZ_YplqnY8F1fYzdzykG5Y7UjpJyZanYNxFhcNeWnnv6jOT6SpxTcACpkcCeVmGmcr6mpvPLYbumXocoWP0MlNucp9CDiQaHiKpS_F0MlcCIXAq-8DO_jC0MsLKGjFMwO3PDqj6K4zGFqTofKK2NyNX4Vah3VoLQrtvjIaeEj32bIDim4D4RTzzi8EdMQeX49GbW-Q-w.jpg",
+      "https://cdn4.telesco.pe/file/XeXMELkqQRcY31eQWWpmQ_uIp8dlkPWsrMFY-Wz3pqvhUc-MLUFGsJ2we-M1MiT2ZUwvGy9t_4b8DanUrqlG4KozxBvLfN1YjHM9U5SDYQesEI_fzMtoeXfUmGfM9unCV1S1zjW4cjvaup1DL3i4ml_6yHs3ILBVyo80qoJc5A2uxyDLj0InzyH1lSVmCqWACdl2xE1NpFJoWQpW8IhC2fF5mt4fF2ep0rqY_LxnNnxhd9Md6g3L8mKfFo-FxLLr4lOJpWdqax1vzZOhWUTq8vemZzWi2PmTrVw1ah9Psel1ZVFS58DRbLvXhdh_nzzgkS65_5YVl19_doZbx3DKlg.jpg",
+      "https://cdn4.telesco.pe/file/lvSdvuxFLlnqTnuIuB6J_d8CS6kz8X5wgzg7iXtssx3xbYIct5yr-aZ9NQzc4Pxv-qG6R9E645moPsLG68ATV6BZSm7rLfhbOu_WH-lj61X_rNSlprgn1KeTSA5-iGu2For6Jw6pkH6M0nQAen_XjWJrysncAJO2bdVqudD6ThTC4efAmHKouBBc30E90EOj_3G2qdjKNbCc2rqXwSnyfKCuQksiIx7ePjyW7FnUujnQ2gyWdJROCJLJiW1wqB3zi1letTq0-z-yHl3pstCdew5pQCpFHVItZigcO2fwTGNWWaip6xZlWwvPC6PtROUBqOkjAdoMonB6j1LLbYWP4w.jpg",
+      "https://cdn4.telesco.pe/file/o6W-q77Ij2o_BtVRCFW7d-RiDlzWwIBSrNqBTwHQoQt9dBfzxIBIyEKwpWysHhwpXr7myM5RI8kVYl3MS1h1sUfpm6Quytb1VmjHplH81okxKbWkAfbRdsT8rJYmHBOYFsOhbMbLAcY-qGHjEk-nTBEALTjjsZZDFIR2ZWqYUcOp2K-i-JyLTvyPcDuXUQgnXia-vLy0PmaIiaujYttg27Beo-A-zP5YwMOrV77HvDmpFUxXSavQ0b7n4aU7WfkXJ7-_wIaWGiydwPGqK0SlvD1o5VcWWa08Rsg78bwk2a5bNxC5oRWQXWfmDuD1T2p8fqd1-mHn5cYTSqSyGlDvfA.jpg",
+      "https://cdn4.telesco.pe/file/ufBfYpNx1sRusEFxSGQtWnnx0M2Q6cxUY9KhlCDxQKmS9VFwnLLsx9FbaGacIcChxYbiD7zNKT1vNIpGC-MAOoIxkB_HWbyBFyWFCcIeqyHWCHV094X-syw58SGxuHUE1UeuWkpuxJA4_w0k7OggnqbyRFOEO2vQEgP0i_MBfyyXMw4TcRlsoudc_PE_LrCDoyWnuUgxuWR1-K9zRbScKx4c7sla3sxaeuYcM2w2GbVk5A5ewYABoXLPLsKqxXTR-G0o8fvUpMHAqYIQTf-zTmu8AXFzSWKcHOFjBG0WsPr6cXh-fkWemFO94V6fqPs-aJYJLqLrQXbTdJrqdp7Y3A.jpg",
+      "https://cdn4.telesco.pe/file/D5r2a2g7u9GLhhvmJMY9Sp_dguefg9kPMSG2SzB70bppFqsa6zzFjmzQD0x5OR-t-OW6QQPaQkJBsyveBZca5OandVev1fT9njGWP7cyfDood5auMUdymVwRLaWw7pbQjN9TmBg_6-cAHi-kkSYPyBVm3bnK4g4tSwmfanIzd4Joyx-dNH6sBWLN-zLHSIYSH_C4_WppWdDh7_kLaGK8cTspANMso-PhYv6TQm8gNXM8BxGcz0lT_srtcHbit8tMRk0Ec03bv0Xo8qKKBUvAR-cvjOQmuNk48e4VFYKtPEpDYva-3kEuEeUhfVwbRNdx0iOTNNZQaZevEZJHuJrXDA.jpg",
+      "https://cdn4.telesco.pe/file/RrUqHrzQwYiu9TPsU6Zaxq_E5CNLWCEVNq2Micx4BaKIFAUyCuP6R1fllScpMRigSK8gdF-9rDRM4r5U1HgGxVRuLNq3Ex9TEyBuGWRNaWIBS32DEYJn-n6ZRERKVO0v-jAvJtoLxvtj3frxx2dKvDuXpeUjTtSJP5n6wEP_Ogh67XcT9RTXPhc5uLGO4D3hbuytz9UeIudT2dk4Ph1MkVli48uAGDdsQyA1yH6ovQbwVaRHptkXv6zn7R87fSjXlraFF3DZKb1mWNNsMVJ9LMAMaMT-zXSwMBlLb81cuomMWFR2vVnEdfBhR8cMx4vbQ7kOVQLmNUly152b2frn6g.jpg"
+    ],
+    "date": "2026-10-05T16:10:21+00:00"
+  },
+  {
+    "id": "915",
+    "text": "https://youtu.be/8OMwC50WK0M?si=AzDaOIWeCok9G0DZ",
+    "images": [
+      "https://cdn4.telesco.pe/file/H6BwA6X23Zn5gQioY5WkOi7AeKp-a-JWtahzzpsDAWa2wHCPsVD1VZDxkqtmGZGHJ5UUycsNj97cmvkvbVHJ9ndmrkcAnnYTm2-aUF0wBSOaC64bXkjIK4vN6X_wfw6tHC46Fx_VKh7ZdVAIxmkbakvP-lNd-JxU1dxjB7D85SgHgBK5K8Tk06r64jwmuHEFHKYl01q0Yz8FFcmRH_RwoKDWGRuf0BoWZO12QCKqFu6HhU0eMddGeQzM8htfoUqmI0aog2hnvRPK3YWejfXdM95XwPNJmTsRTPwbeWJapfmDpmFdU_UAt_mYwvX-GiSk7ipYLVRAEgyCEpxJxMi6Kw.jpg"
+    ],
+    "date": "2026-10-07T18:10:13+00:00"
+  },
+  {
+    "id": "916",
+    "text": "Собрали топовую сборку на 9800x3D c RTX5080, стоимостью 360000р! Эта связка легко тянет игры в 2к и неплохо справляется в 4к.\n\nAMD Ryzen 7 9800X3D\nRTX5080 MSI Ventus 3X WH\n32GB DDR5 6000MHz Corsair RGB\nDeepcool PQ1000G WH\nASRock B650 Steel Legend\nSSD M2 PCI 4.0 NV3 1000ГБ\nJONSBO X400 White +FL fans\nDeepcool LQ360 ARGB\n\n📍 Заказать сборку или апгрейд ПК можно, написав нам в сообщения группы HappyPC Питер или в Telegram: @SPBHappyPC +79313443444",
+    "images": [
+      "https://cdn4.telesco.pe/file/uk7h41YADw5Zx7AqiF6Ra1LKFSFQ1hZCJPB6IsUu7YncD3H9o7LnJ5MAjBs8gL6xQ-9uAn8GEMSx3cN3YVgmdSQ31rPkwWn2fLCsHB-4czlMRSvMmF1rdejZHEZtPbnp3LcVPN-ak5ElwfY-Br5mv8CR7hTAUIOvKWSqj8X164FWdG44R_u7jbvM-k-LXIuaN828Vp_sK_oSjEfCLS3JPXlhOXs8h40XJ6wgTNzoNyzjdcyHG1oLGOPDYE4aAg1WYnkwNyvRkhHv2_TkY8o6x-mbMqTanuBzipP52yLyhWK3-pDVuQvVxVAyMZglM_Y0ETRvt_7Pl78qUbVh1AabUw.jpg",
+      "https://cdn4.telesco.pe/file/OBngkzxJ6IGriEf-FtYjsgL6kA66GVFl_CCMC4RSnSa3rdRXfsHDIm6WDFoSnto8FLG9zJFJ74ZaKsb-OssYiTT1sRfTJZp_F8arDuXJ356swCvrl-hg8gHRKIJZ7UhRiSjkEDewaSLXjmgy270x4mD8VFIecCuyaNeOUeyKE_uO0YMEupwX5nWfw2MTlAfeCHJTfk685sECOLsywcpmG3E0d68zbtBV5iPcyKheHy-suwKlO0sGnKq5Jw8158pW2DGAuooeNAGHn32dPx71ttKY5qYgqjQA6LbrWT7f1H8mO1szbSN-dEOXaxNcvSRJjpuq6ygCrAEzEiprbOuDcA.jpg",
+      "https://cdn4.telesco.pe/file/heiN4-bTJSG_Mk6rbsyFsdL4HdRKcuIwEayaHhrXS3kIpDrWM5tO2JwQDVn2AZt2zKgFSemP5QGVodPeXRymxW-8Ap9JX9dPYpBcP1cgM6LlZptWD18U8n1saGZAJzpywpbCmUkQRTuTFjn9H_3bm4P0uSixNQtVO3IsHSgPbuchrFHTFW8gpySbjL_sPMjGL8irhQmWSEDZsrsP28gyR6JYvL4RLWn51yoKJtJiIXnPolU1SXv9s-g41WYbsqBSssiOBHTxgTdHc_4IAY2C5-DW_Ml9ohne4B1QKNVqJzow47ALpFMm6Bn2YjSn0HZUxrPdU0aVKGfWpXrhDfyI4A.jpg",
+      "https://cdn4.telesco.pe/file/vkR1cVwtXD0mlPi3jTHFGnUVpTTgi1ye3-fOJP3bBWqXLnLJjZ7DqoCdM9-mPP0PM8UvFU_o4Z2u-xDKfz48CpbpghmA3N9K7YlBvxm7TETvhuGdv9v5FfZoObP_yQlEPlLKSU9GQhGX6yM-B1rzw95o4cGZUgCQdEOR095H_BDLAPamUzk493Ma2yahY1QkTvJnO1xMlJbz2znds3srsay1STU3Xd2VblVlR5-bse0P9ZqoOtsELkovAjl1yB17p9WVByJmxN7Ori8rO-QU8j-cuyYGeecoyhoy9NvEtg5AVNStCK_UqWhQICpvVXtYkFic44Kg0Mv9ADZDa5S1JA.jpg"
+    ],
+    "date": "2026-10-08T10:06:37+00:00"
+  },
+  {
+    "id": "920",
+    "text": "YouTube - https://youtu.be/KMoroOaidr4\n\nVK - https://vkvideo.ru/video-216848778_456240306?list=24651be4afd7363ef8\n\nПриятного просмотра 🫶",
+    "images": [
+      "https://cdn4.telesco.pe/file/DQ5DEHaIcYOgvHqSQf1bx4uAraaGENLrefBAdjl9fTlYNux09n6Js8DNVjylvHWg250hWeJtSOSapL3dKk2oqrVIczoPCjHme666dTXvq8BKFUZc_F36bf-Wt7rnpyiHQ16-9idvF300Bb8VykwVGau2yd7ux7CuOQo4N6gpGgZSl2RjPWKH2Ex3LFGBZl-a24W6zrcwv_vTELFR5ulx5l3POzZYnmXKCQnsm9cufZoUjMcaY6Vq5HRSlrujSRgvmzvu1QlPKp8qlmTQI5BBm1tPIRmUTtW3RvCUA93suKMvUFUtErrxvcDyNtaGMoqngKWVkWvTIJ3Qqz9WhahFaQ.jpg"
+    ],
+    "date": "2026-10-10T11:41:42+00:00"
+  },
+  {
+    "id": "921",
+    "text": "Новое видео от 1000 к мечте уже на подходе😉\nНе пропустите! 🤩",
+    "images": [
+      "https://cdn4.telesco.pe/file/jC5CzCFFmy-6LMPpWR3wyf886AF-P1EdKK5dLwVQPO9-ixvRamneyIPMLaqWpFonQFxDBeq9S_fi4xEoZvzGYmlT1TRClOm3AirKAGo-bYij5fk_kbFhbFN_0gZZc7lRwAxKBs_CcDxLPFEJeM8zvWVQhJHNdwp2dsAkC4GhLWFeqOknCQTwpOgRnD-TGrZWKsVpfvp2RRE6DHW9hQC3rwrHv4GdwjgmiZtC0BL06B6JrZWWeoSKK6e3g8NdbY-EfO7hKhDY0YJ9bTBk_58rlaUX2muUM8RhQS7cqZyaLmemDjXZqOhCAeW7WQ-Eh8mpE9hP0yoC32GicvoBchZwKA.jpg"
+    ],
+    "date": "2026-10-13T15:13:37+00:00"
+  },
+  {
+    "id": "922",
+    "text": "https://youtu.be/KGYZJecbcBI?si=C1wZgXU2Z9hEMXW4",
+    "images": [
+      "https://cdn4.telesco.pe/file/YX8ohULCx8Dgv-r8z4kmeEgskKYUXk3hsUJQ3DWo9P8jdJpHnyNsVFNM9pP03Js2yV8ss9NmU_w9HNeBhx1T9tc7SrEUWejaEVvPe2skuCA9qNJMPto2_oWq-N-TmUU2F15Gs5atnguHuUeqOL16JxtyeJZZOvvmGV5hVrMVGci-j-YI2YUVznL7Y1ch_gLNlWQMhOs88hqAPnWfUr_2luQfdlBN_ZEZKq3qhA8Ia3lAJV6oSPxyb1G7An3GgEeUJ6ELs8y1eW_C63KMBtAl1gpXi3j6J3oD5tmK7Wcjj9EsOHRlnshHnGU8s-O4EuwnJWpI0SeeIUni7_xDpQJGjQ.jpg"
+    ],
+    "date": "2026-10-13T20:55:18+00:00"
+  },
+  {
+    "id": "923",
+    "text": "ЭТО СВЕРШИЛОСЬ!🔥🔥🔥\nМы пробили еще один потолок🤖\nСпасибо что с нами, дальше лучше и больше😉📹",
+    "images": [
+      "https://cdn4.telesco.pe/file/R5lgYTgydg-Flgk3-xJ__ChlSNXH9ca-8lTVF5w6y-WgRNGXWPcVX2_HLZevUlCsILTAsh59WKFmoQHfGcbdPz6N98Il0T_gTz88VxmA2jC9UosBssLtcoi4dZLxF0KNyCcWTbUXCC578cGgTxj_1q1CDhij10bp0hhwAyH4DfQEBrDj-QlutRi9RHq5v2ipru_0gRm9XOBhahlFDVFC6EwiqYraBwIcwkGQ9JwU8kc9DEnoXGQ6-WN2NbwszDHhFRPYys3lQ6P8e0d3HxI7uYVdu00ASnZYkZ0f7E_rfceZ2avTrLPH0u_uCplQXnhyK3HD5Ie1_wi11gapSNgrng.jpg"
+    ],
+    "date": "2026-10-14T10:33:45+00:00"
+  },
+  {
+    "id": "924",
+    "text": "Дорогие друзья! У нас в продаже есть Lenovo Legion 5 15ARH05H\n\n📎  Состояние Б/У.\n\n🔧 Технически исправен, гарантия в 3 месяца!\n\n📌 Lenovo Legion 5 15ARH05H\n\nПроцессор - AMD Ryzen 5 4600H 6 ядер / 12 потоков \nВидеокарта - NVIDIA GeForce GTX 1660 TI\nОперативная память - DDR4 16 GB \nНакопитель - NVMe SSD 512GB \nWindows 11 ( лицензия )\nЭкран - диагональ 15.6 1920x1080 120Гц\n💰 38000р\n\nДля связи пишите: @happypcspb",
+    "images": [
+      "https://cdn4.telesco.pe/file/pKrsopGXPJaI-RYSVwwL_n3tKSlSuPnLQnLp4YPN0KDrixBq6AaoY4M_JKDGBeC7piimCfhqMHRn7l9ztuh9HVbIJUaYiYpK_33VQzStEEyns6TtzfFvuSr-qdHGJV6KMbphgORpRTTpvj7y2Uts5t30iMRvdywy8fcK7iHzAzeRUH98foiRyeZ_9jCz6dtpD735oPOYrtv2dEXHroBXon-wHTGWx2n4Gh8mdly5F6cYss37IveOX2Q6t59-azdPCiLwg8pJLIfys3uPjaRaTsq2hd67V3-fijGRpC8SEXfzQ8S8N5rPq9S8wAQVoyoO8qwYmMPCrk3RNm6uxqdPeQ.jpg",
+      "https://cdn4.telesco.pe/file/jykGNEqOXC_mVAkIFXbVaTDcEPZkMyFOpprETOEF50A4bvbCNkNThBMnsTHGcsmqpK1aqYw9lrxN7383X3E-OEEGd9FHrps_4G8DK44EDAl6gA0_I4CeIdgG_dQ7UOnoFtmIuRCD4HMrm23r1ksgftOXb2ogun9pRUjKbli_TUCJjxbO71NOxWYRiGjkFgTlqjzui3ShUD65F4JFQcqgi86n_IE8gdKD8VoOu5GMKp8FMi4Fd1AkssHksOIF2AoR-3kvTTcF0cs_f-vVFTq-rXAmPLxWHzs03EtjHYKWD8q8NHI4CD93zWzEnD7-9C_AqYfX51KS0Uu4EJG7GBQKCg.jpg",
+      "https://cdn4.telesco.pe/file/rA4i83pc0rsnO09Z64AO44os6iJ7cBEq50SWXZgjVE0gwjDLdiz9YYYs04B3tE5Xys3FA7HMUxnWuoKsfA2vCdFGw0msbgD9H05vdQGkuI14UQZ6trIgXdfB263c4hdb-rzic3FTtB_Oa5nmsvIbhKN1X9XPu_luIG-Iq-PcQkkCSvemFbx914sRBmObqsX9wj8_8dGpXaizAvvQGnF6tAqJvFOyxolHtWY1BA9ndktGE1nrZlVvp0G0PTFNIpBtOI4FVj425pHWtrJ5i90VTWF8UZmZ5Mlv3vykBFNnlGzOGzY8v7lNG6L5jkrbwrWpkV28iYpnNPkbdd23nauoOw.jpg"
+    ],
+    "date": "2026-10-15T07:59:58+00:00"
+  },
+  {
+    "id": "927",
+    "text": "У нас довольно обширное пополнение готовых сборок! ☺️☺️☺️\nЕсть варианты как бюджетного сегмента, так и топового! 💰💰💰\nСо всеми вариантами можно ознакомиться в товарах группы или по ссылке ниже)📥📥📥\nhttps://vk.ru/market-216848778?screen=group\n\n📍 Заказать сборку или апгрейд ПК можно, написав нам в сообщения группы HappyPC Питер или в Telegram: @SPBHappyPC +79313443444",
+    "images": [
+      "https://cdn4.telesco.pe/file/KkRVdnI2S0zyRTygD5LJw91m4iKMMLyrXvVy2zEs--AMg7571IZggSxS7KSYVKvNev7jlmUbBWQ84zJbxuTuXbgsbQQGzvmBc2-MIZYIeHpayXpmyVskr1_QhjSz1CI047qxgCrO0R8RJXOMRlI4HYz3lO_-b9zUaaHrU-rxz0q1CTHomVwPaMEaaWYaUD_fSxpHb0nPjyKRFETNWG35TBSW7ccqIg0RHFCzKEoPddy06MnxjfMUhdK0HVnRXbpzDzmZrl0DbYB1mKhCd4Frj-J1IyFUtTosX2C0RDtDcS_OaS9EMvidWmpSs2KXXy2rScsHx_Ec1fvFhS-v54r0wg.jpg",
+      "https://cdn4.telesco.pe/file/Ck_dqj8YG1Mqnt1mh_9PI6tQifqUVDZzSY3Yka86ZajvSVtgLccf-rm9EibhojcTaD9jSFySgfYExN5JTu69H32pTQzMEFkXZGnDJwAb1DTbxEkTTg9lCdWaDEza9SqyrYeY2rGLvO5H0LWn6kQoA_lA-4Z39HdQeUVckCzBzlm7jVppJu8H_ZcWvko8XRB2Vs1LV2X1uAq8sRcHLaT-ERREgaCh9jANZOCvPGa-v466_qzVVI97_PcMN6v1nQKmJdUHtxZOit3tynBQVQGu_3_t5zsMBHNCVWN7iRqOsCyxuA8SsRFzwzun9c5UTyo1IHktcqJ0XJhLT7b5FSgiOQ.jpg",
+      "https://cdn4.telesco.pe/file/jWSiQWaNV1H9Rkn_h1tfAf92bmJP-QpgmFHTaTe8lJeMwZS0Cav8kJCV1fVKFrGF9xf9mxN1wUKQfwa6Sk3d_1GUKh0GMKl0G15W4Yk5Y1Q1XIRwIzhnt9MdhGK-OFx-5qojAZT2LoF43AbRp5LP6S5gvr_tLnEcc_j98r09O5cg4m4YFfIcX7uR3vb9iFvtZFNsLYC1WhAG1Uz6HXEyN_lI8GC-m_N4cJdLBY9UZixDykKZAalE51cslpIM5tMSPfddUHX2SHzAzMSXJb1xvaV3OjiF9IMqO0tGVCLdUQGV0EkmevHl_WqW8tvA4zMgnymSstBorni4RcZMI9buRw.jpg",
+      "https://cdn4.telesco.pe/file/fmcYQzXp6VJL7tZto4J0b4BvfT1XoSucpMhENbI9B4NR-S_8Br-T2NsomuV_LmgBO59eHhLcfA-cluZMdM8v8Wj4H3M540-0AxEU4BJiZ0QlxcN0X14q-HNTMwX9uj9uVQIDJdPao84m5-8EO0f6RYoMcA2kPBxI7xMoAuXQt0xRUYdC9gHLDwzEvt70WsG1lQj1T3ijh-V6IE6b8z3i4WlUP1mxxrSRjL2gwUaojFo60620q6WTsKivRhsbGWNOdFmqLJF69XG2Pc6Q46dlPQm-jKnuIxkcH_Ps9h4Ns2GrBn-u-XhnolTgAsxgOnJyI7w7B5xcN7NyRxjvbPzP5Q.jpg",
+      "https://cdn4.telesco.pe/file/ozzEtMARY_5Gph52Sy1Jrv94sop7xDHbyQJC6bQvGOiqhSlWIM2uz2CaQQ4uOf4Sr6kGjenEwKLhv7SrOLOxVwWDhq0aUCpB7YRbjYG6xgDnyzClWyM9ybud1w5UpWQ3Ot-9IGgJ5ZO8PxhzWwrLqEX9FIDM03w6d87Fxe29nrQHU5XYy9szFghuLEYCEkWbe5TK4l9p-0-YAWmSCF2S5WCN7Bp5taqbvcTry1FrhjkS7hPzj20XpbWoe55bQfyavryvwozdjqZFXdLgbQuXmYr3C3h9qiiKWxRiaifvr4vrCre4NH_xl34dyoMF54n-awDWHaoroHIDuPQPwgxmuQ.jpg"
+    ],
+    "date": "2026-10-15T14:01:04+00:00"
+  },
+  {
+    "id": "880",
+    "text": "👾 Настоящий Франкенштейн: двухпроцессорный монстр на трех видеокартах!\n\nК нам обратились с интересной и нестандартной задачей — собрать рабочую станцию из специфичных серверных и десктопных комплектующих которые купил клиент и принес к нам.\n\nВнутри два серверных процессора Xeon 2696v4, охлаждаемых башенными кулерами. Но самое главное безумие — это графическая подсистема из трех видеокарт GIGABYTE: двух белых GTX 1080 Ti и одной черной GTX 1070.\n\nУчли все пожелания клиента, при сборке.\nВидеокарты жутко греются, так как исполнение горячее и они буквально стоят вплотную. Так-же карты требуют обслуживания, хот спот пробивает 105 градусов за секунды - предупредили клиента тк не захотел обслуживать их.\n\n📍 Заказать сборку или апгрейд ПК можно, написав нам в сообщения группы HappyPC Питер или в Telegram: @SPBHappyPC +79313443444",
+    "images": [
+      "https://cdn4.telesco.pe/file/Z2yR2g8XbKOMR8FIl-YxTO9cfHqQmQBdMknFsK7GZZGgoO44rAJUBQ9WVDG7sCMd1Zv6sGzdDf6loleAzLezNOvOXY1KZpLzaoKezKAoP-fTmxsFNFVJbVZf6CViSxd2BqqZYwiZvz9l8NXxfd55P3L9wA9ZZhah6k-s7D9CfshcYH0iUz17O_UM0C23gbTVqdsqAncKzNC4VVZlcoxzz10SDEtYDLqxf33OdlH5kvOLO_O39v4KIPsrK6fmJ6teoF57L4t3xxLJ6uMcViR3MS9vtwhjFzLGzuGOSBeusLstu3Y8uZQRKV58AJCxIpMsgx_opdQulfr_cBWMFH1k0Q.jpg",
+      "https://cdn4.telesco.pe/file/jYGBs7SLvOR_GT5oEqlVt5QyrlcVr--BcEF_4CHKR2yPE7wNOJdnJCTkibWRYsiVyHK3CChXoTPdVhbYHjTvwcj0YnavIZVi6mN6vCgT6Vk5v5vtsPazsEmm5a8-aoMURjjIz-zLK6wls7tiYBuEtYDhR1PsKpCXlkIyXCZTyxJmdQoGZDEmGuUN6aE8FDu_rzyst6gREuA9r2OcnkEztstKhBU5lp6PaVJ71kT4MuF7eTjw4URqKqJ7Zcc0NxE33c-IgwuwB53T1uVfSUou0pLqKYRNWal_FABG-k6NIcqSJbveP9o1rYw3roEfOJlWdSGLrq1raCbiX894p9jS6w.jpg",
+      "https://cdn4.telesco.pe/file/M8TeqEivHY_SD79gFw9Kkr9V7tQwipl1Pp2_7C6OE3Y-za-7buaWzGiq36nhNt_24c71eeAysd-7nKwpQISu5u7d7xkPHKF1vc1y2IupoG18ZdpVocBe75xipgRFNI0J4YbUFD-erPtMuQQkOVVPjtBbupwP7L2qXobbT0jyLvl_VZ2eOS5yq2gtfjDBriSd4orss66JOVNDI32lC3eur4QVSK3q8gUZiKAbJ26zC7IXoqq4rNp7uRm-Klqfsux1VaNLY2fTrsPrS7xDQ0JPDHx54XC8o-6qqd8GaJ3acyQ317Fti4Spw8XItyVlUDrz1Xst8itsJSvddLECdbJzBA.jpg",
+      "https://cdn4.telesco.pe/file/ATUX0oNGnfu-iYmEEMrDRfvDaqqaImopgh03joensemfR-vUo8ZIoVwBphe_-WqThZoPdDgkQmbR27Nn5_te9nOem-exLf95lBdDRuvXoW95FbI57e22qPV6mHxuSf1Lqh6MFvakxgkTX-s_0szAtDSga5pYmNslpyXpv5gVsd8LiC9ZasF1y318w8nqK0vayy6NBb3eOiOzUZfOAOxxIFZ4Cks4TM_GT85AKZHNi02j8OQf2vsNkxC5AkVndN5sMXPJOV-zM_U35Grg3gKCFmCWVZnidkDJPUEugaqlW2O5vqmHSnwes-aHjGZpFVVvN8GOwLjN1ZM0arpzOJ75ZQ.jpg",
+      "https://cdn4.telesco.pe/file/Q3UMqhQ4SVzHa_pkP2F34V-cVz0Lv2zuarxxE_A91c8Zau74s0pikQRNkW83hczCwEhAfhYHIN1mCxXMY0htPL-9YK7ynYcTR26m15VqK0KSX3RP7pyoEEEnTYcQTNn2XwqtE8ZodhBKH-94FAODG6KbsaJQjHfCllWRsgAdLmkynYCaG41fPliav-KFuhuj6k_DqkecCQWE5j8x8GkpKYSPNZ0mji8n0tXXtOJ-T8-0lADxIIRJUKDlcPC0kks1EUECimXidf-Aaum3HA1y5tx6_6uZZ5Ey3aWgTUCJ3GR0-PUkCNEopMHt0Gsj-l_xH5v2f7w055_wU68AkKx9YA.jpg",
+      "https://cdn4.telesco.pe/file/LgQGm8flxNy6VjEock-M1IVf7HmgvOPZ6phOd9diPVfqUu6lkJSJZuWj5BoXyyfptzInbdgcMeI1NS7mYMhfVEW173y0XKObTs4LMUGS83cgwe5DgfuJvdJkk2D0nNROIzEpySp1w4PV2wxLLdqTqPmsO-wWv9T0yB8BieO2Cw5LEgKnxzWNP3RbDnB5prG_pZooUA75ajRFQhN3FQEPJCYC7hWeLWJCAnN0GMo2WJKaZuAp9pJFbKqpo9qbzbcdfzi1UziG1wQlx1mctKVYbEyQ8_dtmkTHRO_m2PUwceA6TEUvWlk1Twav-YsPrq9JOFcB6ARUK_Zu4coBERDTCg.jpg"
+    ],
+    "date": "2026-09-25T09:59:58+00:00"
+  },
+  {
+    "id": "886",
+    "text": "YouTube - https://www.youtube.com/watch?v=YRS5qR4KV4k\nVK - https://vkvideo.ru/video-216848778_456240299\n\nПриятного просмотра 🫶",
+    "images": [
+      "https://cdn4.telesco.pe/file/QFGOBeMe7zLFtdPwvjyaIvttqQDPZMsFreKXTC_w34S4y9r2AOXJta6byTvuTrqClqVv6kYKvBv05p0h5LenZYc2bllfw0YAnX5GXZs9JqWzy2FcpbUFrFDZnasRafn2iPWTbF7Vi37gn5vc0HrJ2W-fxmKlBoGePo9P0cnGQdb6a-AI6BaGrKSaxFZIfb650Ono36ZmHyS2Zvbwyy2W2ImSr-02g5qI1nns_6FXRyx9WrAqyhWiJkuUFVCauMn2MFIQVmcnAfRkoSKC0oTHhWqumdwpbHhSSU9z_92ekVXk4H-hCzupwKYEsDHyoM9e9nAtJyAuTd1w3qDjt59BUA.jpg"
+    ],
+    "date": "2026-09-25T13:19:13+00:00"
+  },
+  {
+    "id": "892",
+    "text": "История одной диагностики!🆕\nКомпьютер поступил к нам после самостоятельного апгрейда с проблемой отсутствия изображение через видеокарту при включении компьютера, при этом изображение от встроенного видеоядра процессора было!😱\nНа фото можно увидеть причину, не очень распространенную, но достаточно болезненную)💥\nПри установке кулера провод от подсветки его вентиляторов попал под винт крепления, из-за чего была нарушена изоляция проводов, а уже это привело к КЗ на плате и отсутствию изображения через видеокарту при включении!🆘\nПосле устранения короткого замыкания компьютер стабильно запускается и проходит все тесты! ✅\nВ этот раз получился достаточно хороший конец у истории, и данному результату наш клиент безусловно рад) 😄\n\n📍 Заказать сборку или апгрейд ПК можно, написав нам в сообщения группы HappyPC Питер или в Telegram: @SPBHappyPC +79313443444",
+    "images": [
+      "https://cdn4.telesco.pe/file/dkSV4urx180oi9kFaXuNRTtaoqImTKhGdm28IKAm6rJ_XJEZobFq0vxjPwo7RAZRgFvWH-ak8QCc-p4jZJJO202h48g8ehtLOYWYL63heLyCBdm2ymE6ZMabTBLGDBpcH_U6qX7_ZMWK8VmPNfKMHEbmIO97EwbhqMwMSiXNYmAxFd4gcY9rcNQbEM_GkVwQvirtUKCaLyt5aBrC63bmvUHZaDhfDMlvuRJdyA29gwuljPyN5G_4F1-qvSFMn6Whclfk0D26cmvokRpeybGjXLhoqn-qw87d1Z5I1cZscvZyEctEkY8nvLMUpoKJJNBqTqHIXNCRH7x5VNFkXmKVVA.jpg",
+      "https://cdn4.telesco.pe/file/uCnf9_vBOUnTE8rnnggRVuIhnCaGVh9liCMMInezPgL_GRyLMWkE1AK-Rvhdt-VyMe8z6T57ifPiMT0nRHkmhbEyI7VYjVehAhwMTf9q0fAyFNQeCF-UfwW2qF4kEnONRPGC45agf4HKFl-3dPq4cilahWYcnjwey7xzoHXD13KnMFeGfqXfQGIwRFUWM4fsMIJ0RbtlWJLRJXuQDtz1RRo2AonRdxkNJL8YVAyxgbjQ1pW4oIznPOBEoYS0pXt0Zapn9IX9gpM9FsA7nbXeQ4j7mmJkVxtV4SIYDOIDOIAvwBJDWCX-c6AVuWckkIXuHIr2jCKouJlh8eUxKNhsYw.jpg",
+      "https://cdn4.telesco.pe/file/PApkut0WAAAS7o-6nVOTkCCT1KlPqXK6-LpncKEc-aheEb72cnGBb5Z-QE9QDQHMOo7bK5l3N1U1aP_vciv6m0-uFBWJcgexEn46Vu1xxuK-KR5DipwEWiR4vSFU2WBIIHsNOCM3g3KQXIhJ1DTpgnaUKw8u2FZa1ZOkmFPZizdGJoa-Qd7w9G1QZCDyCnpOYhIp7GvMG2vbOkpVf_cRududvph4XzQomre4Ufpu7a9onz_IhsQ5vi5hdAS4JPozl_X13HF2JRU4cPIvxDe9k0zypBzaColm_w6rzXkGb1LzsK5yQzYRkHtLAOoJB2VPSlWPl4x33NB1NXz6GRHiuQ.jpg",
+      "https://cdn4.telesco.pe/file/mg4Jv5zPjAwKNluOgJG41bz85Z5mdBEStpZdV-fvvK5ijjKjSzP2Mvtxkdq-vNOQZ8B-J93Q3CzVFnNr0-vJ3keUjL8hO22qBLyxGoas3v9k-hYq_yVYSbepb5wOaUKBtVPGpz2G4HULV7hIU05me_LH7BEIKyc7s0TrwhBPK-SIpmJ9QDUTWftuw2wsCq6u2p_yQuWhGhM2WaZLLe-6FcynU0LCb5IZ0ykxxm9SmRSYR8szo8sQW_EdydyADt7jmOYFeAP6QEo1UwGcxRP6irWvu1CnBBF4KujFtv_dLXcs0EYc0fcgIhoVCoaacaIjNm59lDmNv2dcGYree3fx-g.jpg",
+      "https://cdn4.telesco.pe/file/iUzXrWfi4UtELjEt20Ab1FgtDgUFh2ZJ5XD-NzFDl4LQ7TLr0uREhUndXTGDbw5C0CvhlrSabTnUsjfwiU6Df1ws7jc2pNlNlkCQG1q_hr8C7N7qtfXCAhMrNQnC09CuG5FWon3ZVfvvgx_M8i7xsMkppDeiNjURdGdbgXJkKuAbOJl28cGM5ff4I0l64vLuwABw-A7qwR7xzRrN2YoFGN91ZT4vuT6FpbBpo43X9-8idRgIWdQPVioTmBg4OjcqpI4uTSegx_H5S1nZ5Whnk1-Jg4nKb5MsvYFXT1syEj14-XMVTfv8Y1UnmmRUoPKcVi3s7ZoVCtUd7DNuS1A2og.jpg"
+    ],
+    "date": "2026-09-28T16:59:58+00:00"
+  },
+  {
+    "id": "897",
+    "text": "Для ночных ребят😉\n\nhttps://youtu.be/hZhTec7BTRU?si=n-xm_ug0VdMQCvlh",
+    "images": [
+      "https://cdn4.telesco.pe/file/lRJQfobffNwcO_gz5c3OePr_KzWbBrgGNYpWA0HvvFvILxTAznnKX0d-mFgSnoiw6cwV2C_sI7o8u8q3J2dLVz2dAoKg4zxAcCtUuTSubJEWJLd8T1sioKSA15c9OKFzxTxwcqD0IBkX9IzMOjU0LTN5-PNfX7Nkbj9h0x3dECOXVbOXVeuPklXXvABg0r6QEXub_QJdHNc10SAJzP8kngD_Iudjkl9FVmXcSpAOJwfpD9nttO9MEyqug3lR-5i-7uqF3lhsLksblbapA6LtcjEPYFwKOJgMmu2HBJNFjsrRQjqetY6pMqKqvhJ2zaiYMSiEGVqaFUDEURwCFt7GAg.jpg"
+    ],
+    "date": "2026-09-28T22:23:04+00:00"
+  },
+  {
+    "id": "898",
+    "text": "Сегодня в очереди на обслуживание заметили настоящее сокровище — иначе и не скажешь! Исполнение RTX 2070 Founders Edition само по себе великолепно: строгий дизайн, металл, а от распаковки фирменной коробки — сплошное эстетическое удовольствие.😍\nВидеокарта не без нюансов: клиент(ка) честно попыталась обслужить её своими силами, но на определенном этапе что-то пошло не так… Что именно её остановило — можно увидеть на фото 🫢😁\n\n📩По вопросам обслуживания видеокарт/ноутбуков/игровых консолей можете связаться с нами:\n- написать в сообщения группы ВК HappyPC Питер или в Telegram: @happypcspb +79040444444",
+    "images": [
+      "https://cdn4.telesco.pe/file/SATkEp_n2L0WvywUkk6nPlU72zb_bhQDcJnCFsGavJM5m-6jRqptm_cgMjPPbWPmpHft87GiMedUgPLdsLMhDAaarqrczBHhcC7XkhnPArS45Qfh-QA4Z2PhYAkpMENXC4u8Woy3TYWYFp1pj9ZZ4HjuMdbTIFOMhJLOV4usZXfFpcMW5nWybJR6nCdw6CBA_m1jOIBPEhEYwWmc7l9-h3gdisJa5cNiaIETokd7QAG9YGosRth9gpI5M_RGhRsxbeAuL4M6YGWqU_eAs3NGRO2709axHiBSjOXd9CULJiVdodOu5q-xws3eIJ1YpNa5yv9_0vNtHKuk25plqtWr2g.jpg",
+      "https://cdn4.telesco.pe/file/DsS_1BfVrsZwAW25oE4UNg9Lddqo4aoWhE6vWXfQ88lDoe_zXegetBoMHA0LiZfv4X-OFVwl48qGsC5nCDXAH-6uavPZWzLApX0tICCpQAt82SUQlQzTo9kr2nVc1Wy0V_KAMT1yKShDH59DXE3f88K03x8prwAA29meODbsTrZRzbVJAs9V5jxo2ehH0xyHfRhW7quv0ijsMvKeV3hJA_PHrxxZvuAqgVXwt1fjUsdObqMbC2ObE1lOfF7P9QsMFfulf6gF7CLJla7k2Oa_J-QyxPxADIR0a9Y_B-ZiB3YixFwyAkTjfHdvIb9NtWEIBffPhIwuLPJ_oRY-hmT2WA.jpg",
+      "https://cdn4.telesco.pe/file/Z43lNy1Wi-_X6Gcwn5Hgpg1RQ4S3PHsola_9CzjEcH6MzvrGx4TX_OIZmrm9DhItKOc6b-QgBvLhtGqly6W1gisAeahHJudYYyp_YXGxSpsJaWyyoH6ulch6ubbaon9m4SqVHMHE_GSfRkUX067vQhKQ7ArQrg3ESYsKG0TB9SnkT_w8l6nIQzOb7GmQ2EIUV8yQLymR_WxHy4e2pK1MIBcvBFWqiytGsolceKQnSFkV2CMPm-CA_CsBC-THiAdEW2scA9BHYHq2pWiiTf5TLff4YrNypy29LtMLdZvMK8YI4r_iTAj1czqp-sK6QKzujSwRHScwzRW2lFOkz962lg.jpg",
+      "https://cdn4.telesco.pe/file/Hz0ALOEeA0telQmuiqg3XSabDmsD2xZXKokizjzXpSHyvHDZZVRUsXVHGbHhmxHpPWm987llNX-sdSFWOgpHX-jQLvHjQapX_qGDUurHeJCLe_7X7-OmcIUoxgE49A2WiVqYKUk_A6oGabmqEfsVOb0-JGcgOazAdAioH7X6wACtyJVKSbkGOskUoL5yGuWol2_Vhh84owyILVP5x-wbH_tcc0JWamz4Zvs7yWj2nHdTA-2wYCVn2PEikLlKL8ASTeXXUcvsutYXJx1dIUHNr4T5jSVwobOQu4qWUvBEy_V5Tmw8ekEjIrD8gC0PdLRF-UjrOcUlwt1Jd20FbMx5Vw.jpg",
+      "https://cdn4.telesco.pe/file/sKJF1UvVogIKfMpasozD2ZhdHSOUWjTJBQkfftd1_uvhGLK0I6vmhqpO_wIul1sGn-dRLWhZW-QIgQW_jCS-1xF-HGOYwQnbPMjqosUJcvpOpYj4oTXUEYbgk79U0yXBKMI0zIfXn1WN10nPyCoo3fSwzjEduZahFR8gffIYMLAYaBBrqcX1Upp6T1HaEwUethWXgAWk5j4XOap1il2ZXiwYe2rpZskzBTuwJHtkOFVi6TwWsB143AL6AkhTbDD8i0INNTCmE9bEEYGj_LPE35n9W2_A2KHh3jh42G0l4b9wjlFiRtp4CkeWwGPT9I8BUQhWZg5_-8ETIJnopIYuwA.jpg",
+      "https://cdn4.telesco.pe/file/pFQ4ehCRy5DeJqkRpNi-zhpQV-i1uX18TGoaxDmDCH93Z9scodlrdCKT4siMZIjvCCm9xiezYibiXV6xHAkrreNebiSmlSiiA-bWJnyXH2JIKhIR8iqqjQOwRhYwZXTqbS-drFomgU2KIP8oZTqheN-2Vu4hRdI4SzH_1_5ZBa90ycpt1C2xXtlboPsnm0scF-NIApVtyAtBNg83Qu-agpVEEeVtrC_h3H77UMT6cMtQAiz7ZkHgINqJV9LN0-peGj9vS_ravw6mvarNyPXwRJLfHsZXKfkd8MMMhk0s3EMBRM_UcvESnz7dPf0wp509c_jMU1hNCqjiCmPzmrd7Hg.jpg"
+    ],
+    "date": "2026-09-30T09:01:16+00:00"
+  },
+  {
+    "id": "904",
+    "text": "YouTube - https://youtu.be/SYN_zWxskDE\nVK - https://vkvideo.ru/video-216848778_456240302?list=07ef41b1c70e57bafd\n\nПриятного просмотра 🫶",
+    "images": [
+      "https://cdn4.telesco.pe/file/KthsNu8Y61Za4xfBhnlKi2J13y59-jxTh-VitHPDHLp6aTUdHxrIbwoqZqasYnywQeXcgZ0W22wk9IGZLdFga-9EUp3oJ1PPoGNTDZty0UcrJxufqMg3q34cC4QeIEZKMUWxF3MIx471EA-lg9EkyZZ5eKkbTVmTacnmT94JWA4v7XGsb9vAMsEuaBQ2l5DDNa-UVdAOsx7HJOCUeZj49fGrG-dUjolWSlVEFioT5aW6wi4nbwYoWtvjzIT8hnG19MBiWkJQ8XEpzBOBpseUxFpwTrEbEzGsWqAgCqcy01esA_D9qz-RQxtO1bg_ZmM_NODX2cUo3yOMEVey-Je75Q.jpg"
+    ],
+    "date": "2026-10-02T15:49:46+00:00"
+  },
+  {
+    "id": "856",
+    "text": "Сразу после super версии на стол нашего мастера попала карта в таком же исполнении - MSI Gaming X Trio, но уже 2080 Ti🤗 интересно будет взглянуть на отличия) Данный пациент уже кем-то вскрывался и по какой-то причине на видеопамяти отсутствовали термопрокладки, что печально. В остальном все как у всех - термопасту подвыдавило, хоть и датчики это особо не зафиксировали; пленочки на некоторых термопрокладках и лужи силикона тоже на месте. Все почистили, положили свеженький термоинтерфейс, в том числе и на память. Так как проблемные области видеочипа, видимо, не попали на датчики, изменений по температурам практически нет. GPU в районе 69 градусов, Hot Spot около 84. На пару-тройку процентов снизились обороты кулеров. Но если принять во внимание факты, озвученные ранее, карте стало намного лучше. \n\n📨 По вопросам обслуживания видеокарт/ноутбуков/игровых консолей можете связаться с нами удобным способом: \n- написать в сообщения группы ВК HappyPC Питер\n- написать в Telegram: @happypcspb +79040444444",
+    "images": [
+      "https://cdn4.telesco.pe/file/lpKNjn5T0uxmWlerINfumkMMvB24nmu88CcITcw8axmaeATIImM1nx5Pqgdt7LAhk2yoRSSwOS0muGbwRj7fLi0Sx0twmbxdQEEqLPo2YAWx0LpoywqeKhp8l8_9SuMnrpxLJTr_EYjnPZViEX3e9a9Hbh_33PyxatYBkTC83chXkjVcsAzfV5d3exjQHBWXxZohDToKN270UWmrKQzfn2gB4Lp0gV1oNomqk3D0n4yqhyP_NP6yev0FmsgK_vEvSOouFlJx6B00Mn1ZAzhBT97VTasDhZYh89WrYRCcOzPJOSezGeq_v7qwIhrAPr-2UIf_Sumh9HWlr-OxR72pBw.jpg",
+      "https://cdn4.telesco.pe/file/qUcg0S2lKrhatLlIxLdU30SXgRq19v_AG11XVR42XQJyY6_pHPOkjTRT2qKMZQQRsKBkN4zYSuU9H0d0TCpLwkOO0U2_aY3EOZt1unQStvQ-vi-UnYjSr6aMZ2avATt7QMejDe0FSWRPKNeX4ise-Pwl2i_SxgpcQFVgDEABuouIpoNPDkbB9fl9PwBXD0pRb5t_pbA7Nx_l0uzQY5sYeaLySc6CI8N9Idv9h17Ud-sfGLzhAbnH_fP_YUPsRQSpS5a110lRcYYUA1jQ58jaRbNqoawRfO11QKkAFmxKuXFxKHvb63oPFn75F7INa8MVdHtxdRkJcpZLU6RZeDfPPA.jpg",
+      "https://cdn4.telesco.pe/file/V83W2FKBnMExyTX4SQUiz8z4g1LogXFE2GBHXF_evIA6kUbexDtOeyo_APSpsDds5op4A1HJkLaxN9KsOI5FpKMRRge95EeA4vbHfADlgUWSAXjj5gOPMB359r2tykKMnpiExQxU5mqpQgrNLO4Vkx1nJupW6AAdstYvfeXSJ3qxBgV9wt-lBZ6TUjEu6fX-BRgMXqBnNMUiXcU1KANx7YLVeWEoIODMjDTZsAeImv6g4d3BTq_qYq18LeUu-baPXXBi2SAvzyLcUKGSUdPdLSNdH3mvOXBy6D7JONFCUmwi3_4Vbbp9SJIOvHxohXiE0mX5dLuu9b2hQQxPXPcZ6w.jpg",
+      "https://cdn4.telesco.pe/file/Zke5FL-p0oADG47haSly4JGSLomtMbRX82HKTj89NqJRRDmp37fu90d5t2vXpG9ZhOAG7iV6gLDalfI3VhUdxtFJoCdE2Q_J78kClcM4aoXXlyztzkPmX-xlqMg6WC9XlxGErJgt98dAnLUOru0lJw9IavmfxElnixWvWf6VBMToIwgWyKtZHvRNWmyoljzJFWolr6oKOVYA869SuCZixS1uXedE3LvQM6TKnhhIRbdz4Y2iSuTMNjvK-26AS-RV2h_oXzFohklBCP3Zp3NXELwj2XQhkKghNtIGmNYi8qkuzUk86K0bHw4D1JCJfXKdBcI4ku1qcJwXa8oorD19CQ.jpg",
+      "https://cdn4.telesco.pe/file/fEYidCpp2E_nNgYdE1omkp5Rrs13PkOBH46aH-O64zS-730kTRyb_gOe1Mke1Lcn3qGWNDm4X4vxZftAAtBAU4aSB_QHV9GX9Bi-6QyiM5xoYFRsvybZRLNysesPsHswOjmoMScQn1LyDktp9cXq1E-XfyziNDLHT7NjtKY4giyXI0XhzOKLKsS3vG9l-hPtVoLQBKN1JIZNpe1ORxgccdkbWOW4CRBWPgwyIYCEdhZYq-yqWSvGJN8weasTLzNNDzef13XA7vPDeGz8_cKkI5Jkm5P5Dff950gCEFlmeaDlq4a_O0hYWbgHV0pdcElVM3c6NBJ9DrTykuaasAev_A.jpg",
+      "https://cdn4.telesco.pe/file/frYUHGXJHTj9MUOc3-yfpMuUXLKav4Gb-pZLqqCq2LfFi_Jo6-f4JsF90xx4NjyQ8USOysdZtTzEeAP8KGRYBA-I5PUcB5LQRFH63mHJ5_iXyLkOUZ93RKXLVpcJrJq9Sj7N0NtdNfI4yNKNHOb8CRLBfrC5W4Rt_2xgXb95SCf906dhwDMgXnI8qTjldIZ9dkqAtta8xa4suTCBDfuNgJXT5pFO1-bOm_AfpEYQAL30f4cwWZ-qJ7YrEdwn6iHbVtD1SsFArvkjtL1yWyo_lQJlRyiTSfqp8a5ri5euPA73OvUlQh15VuiKCwFiwleZ3LUobKUiJayUgfnZFeQD5A.jpg",
+      "https://cdn4.telesco.pe/file/muw_muZmPVQ02qH-FXD6aL9NrEf7QcDFitSDm4NFUshHOHwjn_UrVkBYpHL5hMnZg0r5Dy5hm-dAVInSTEBCKX9-XZLvCh8tTfPoDoQNv_4SOB_-EEWLXroR6PfDirEz_TUlHqYpAuuX6PEKx50p5YlEDHpkw5DlFz0V9hnIHHhYM754iEfv7VYM2wRzOEQ8ACJ8P4HGqQaMddJtr0TfWutUoTBh_5R7oGkPABBqrOPpT3FSf_RxzmvUYHmCTkPcgRKHkzwrsnjqL5EgSFuhgqftP7cbwNQqnopTbN-i8NjxL6sAs5MddpZ8xhDgPW_OaqaW5JM7lqdM-nUyLORyaA.jpg",
+      "https://cdn4.telesco.pe/file/sIbnrb_Vjmf0-VFdM-xMUR26JGE2Gp-yxoWBJ_1RlrmxUCEFXtT65SUikaACKLMjh_v6BGYXnQv5_DeDYdvgCWERr2oHlMZU41brNvEK4Y1aWvbTmty6HsEmIyk5p3Ggxt7bG5PfKOvleTSJPO29k5goTB_WqivT5TXIZ29YmWNYDGkQfAPsNpvJb5coKPmMKEx9qPAARRhJD04F9LlEDWCg_h6ygKfMD7XUAfvq4eVzmuZQeNxkVelNIVw4aAy_lSotPRRjQsZAEw3qPxtAcFrJttrCi8v_hbiXwz6Bzj7drCR-J5AxHxIUqtzyvYeRAmO_Qi0HCL9ysQOfsnUIWg.jpg"
+    ],
+    "date": "2026-09-19T14:59:58+00:00"
+  },
+  {
+    "id": "864",
+    "text": "Собрали вот такую пчелку под нашу клиентку! 🐝\nЗачастил в нашей мастерской данный корпус - Jonsbo Z20! 🎁\nВполне неплохой вариант, если хочется чего-то небольшого и достаточно производительного) 💪\n\nКонфигурация:\n✨Материнская плата MSI PRO B850M-P\n✨Накопитель SSD Kingston NV3 1Tb\n✨Процессор AMD Ryzen 5 9600X\n✨Блок питания PCCooler KN750 Gold+\n✨Видеокарта GIGABYTE GeForce RTX 5060 Ti WINDFORCE MAX OC\n✨Кулер для процессора DEEPCOOL AK500S DIGITAL SE\n✨Оперативная память Patriot Viper Venom DDR5 32Gb (2x16Gb) 6000MHz CL30\n✨Корпус клиента Jonsbo Z20\n✨Вентиляторы для корпуса Deepcool FL12\n\nПримерная стоимость вместе с работами: 180 000 рублей!\n\n📍 Заказать сборку или апгрейд ПК можно, написав нам в сообщения группы HappyPC Питер или в Telegram: @SPBHappyPC +79313443444",
+    "images": [
+      "https://cdn4.telesco.pe/file/K_q1SP9tub6psbYu75WroNCy6CMFctaF2-CvvH_sdAXSeJkLGuHy9oIJrJqPe9fwSG6FTSVwIFIJB4DZJWQBMXUNRftQM-QpKeQJprVDHXBCySgjaR491N8uwnKyw5QJ7mS4-z_8rQWSYHWu9ub_CwbswMhCRKdn6xzZaAcCYg4Yt8Jo_A8vouf1vvZF6CI1_CrRz-CG_GmGgeYwUhIyXzM5ZQzvoNABVNcrNlgxLxuhpL_Quj7TVVeuyT4Ad4gVCqaGfJPsmzJ5fj5mLrwndeQIvD6hyG3zudC4NsniTsIw26JCzYS-C1gKclMVJL-2OaEPBjn0bF4efWwoe5eE9g.jpg",
+      "https://cdn4.telesco.pe/file/Smf897fPKMRypns3irzSvxAZwGQDzuAqAQFfV7z5xBMhXKgKZ892AZRBgpgUYwEP2W1KNNfuKfjpDMuAF2VawtzGwOzX6_bafKHdzixKTq9YozEiDghRkybOBBEnOXPmgzWXZJsCjtLuqDI5ZfAerw1a9W8VOWGiFQbCbO82BM9AHYawfTbqxSWCzhTsNd6Zjz7jAaDgD1qfoOvfxgk8UpASqficuD4Ua5doTKru9sMqlYPCbVWRbMIKD_RRWhg_u9blo_1RLZLMlSaHVWBWqY3CEYVbXpTEIpCY6-KyLn0fLZ9PKFlqHc6TIUXWenp6Sb8TvQn-hLnMxIPLMcHVhA.jpg",
+      "https://cdn4.telesco.pe/file/EWWqgIxS33m7PVinvYq7bNNYn2ZctMiVmRdWH5RWTUx9y-GsULWbpTh4HQoZWUYLWFscO2XJshAvoQA3z5l_omTcOynhb64QQQNJ2-Eo_RGO0r47_OueyoyvgrM3dpqEWfXnLV4HT7pan8QfDX1qGnnZFmUiUWZvuOg_6dq0cK89e_M7K8t3sggAJ2w2nPOub2lgF9x50pcR6rAlgnDmtkJ8uoZn-hhyEZiDY8GnR-9PZ-X0cteL5-TpqW2lHLm3CdWkh_q8LZXguXSZyeQvMXpKuPhW7ooMY6bESCgwfFZtJjGjPKlbOARqa9ykrveANown-FBJyb3VXiKi-TOUow.jpg",
+      "https://cdn4.telesco.pe/file/Mn1DO5d9P295LRZAxlEWja9fsKxp_ffHN4ls2KowcP0xbM7i8ZstsIl0lejtQMOkvhsl6itLwTPiOJkDS4galm9rk61Q9-rV3v_fQa17L4MUHk74eSZCghly6pQcLtvPMdFTjL___IK6xztqZ8DjomDmmyFpD8uMOHgIrGGa2wy7BAtWTZF7kFT0BzNnNq5lnMdiiVXllEb-2BO_SaNiRUzNs-s2h9vs4dZwDrDlsAgnXPpmpvIRXL9bb7oHJ4r4-bZd0eML2HFiUGXicNiEGPm4_WsHgJ8DsG3FSzLKQeORD0Bg0cRn8qxB31xtM1Ct0pbpbv0WVputGSATJ_zLZg.jpg",
+      "https://cdn4.telesco.pe/file/Ew-FRtfLvb_CsGHy0DZYZZrXJ9KiUHJ0vGgtP4Bl6IkrDrr1L9xZhRKQ-5G3GXY1yN8Kjl6xA9e2agGGkfruPtPMtvmpS3w1ukrKYRtY0Kfx16Gx99WZFByOAm7PhmMXuwmhOz3EEl1h3SyP1iiTNT47ev07a8ly4aLbuBW3gR0uTZ0anuKEwfxb_WXWNT_NiNdxycicBLflavF4vkxC_I8IzGBIXNA9hY2MU7t5ZmiK8idkriqzBixAtvJt--vFRWnPSnJmzx7cDpLolEuSKP7lTsnB6MPreEs-edl2NILlAENGErgKD_mMxQoBbLj4cqM0l-SGUNm8XYPP7gBKcA.jpg"
+    ],
+    "date": "2026-09-20T15:05:24+00:00"
+  },
+  {
+    "id": "869",
+    "text": "Небольшая демонстрация качества китайского подполья!🇨🇳\nВот такую плату от Machinist принес нам клиент на диагностику- SSD диск работал не корректно) 🆘\nВизуально смогли определить, что слот М2 вообще не был припаян к плате, что с лицевой части, что с задней)😥\nПосле устранения данной неисправности нашим инженером, клиент может пользоваться своим пк дальше без каких-либо проблем)✅\nКак вы оцените целесообразность покупки платы, в которую сразу же придется вкладываться при условии низкой цены на эту плату?😅\nФото 1-3 - неисправность\nФото 4-5 - результат работы\n\n📍 Заказать сборку или апгрейд ПК можно, написав нам в сообщения группы HappyPC Питер или в Telegram: @SPBHappyPC +79313443444",
+    "images": [
+      "https://cdn4.telesco.pe/file/PJKfPgGhmqvI6vxy2sgChIQwVt-URSyPKZPeHCvXmVfmx7FxWUjQXF5bkKRrvE_9HqlQk9uBY9iNT9j-T7iBmdYDqJ1xP5FVpC4q2O9JWCmEoTiKvGiocPD4syWJbmAaJ6-YXop0M_yOFAmgbbprQ0VAs4bry9Cx-PQYqJWbZjdV2-7U3_t6q_xD7fJFQ_c8Zmcb3HkyPRWdej-NcYfmy0MA3Gys3IQf4MQ_xbnhQgmmwH1Ydirdty5cv8shAQ9F9tv-GXEa4-hlpepr8QhcL_v2NszZT0EYxnbEgg_8xUbiPROY_BjxyGJ2O8E5kI5PgaU6WKe8sBOScT7DvSCXIw.jpg",
+      "https://cdn4.telesco.pe/file/eK7a18vYctvumh9zW5k15JCBOSY6-sZbns2M3U4Fj3pxxtY4sBHwIXzGvuPA1kZ7rfPPiuK1oGKlI7_gqsiMHn6W-8Z0ozsvpcantdXEt_0_XW1MiM1S0zG8IlYCO7EteQPhopfPsN2PVdO8fNo0W6WTYCe0tgkJ61Lxo6PQLW9KIrHcuHyhsHsYBZ3LN-YCh_m8DvBadnsr9T663Xht83Uwn4VtyNCAluFcx4mm9DTM3qGwZ-MGnaNzeRYPc1cqAttQmss41NHN0oCfTrV5m57UBTH5qw45J_CWSNwdhXz2iw_GxtFjOVaWKpE5jsX2tHiIqI6Kc0N4WcE8Wfx5KA.jpg",
+      "https://cdn4.telesco.pe/file/q904lXzwWuUpjWgvQqNvM06Y5Gs1dfOr2nS57BTTsPZFB_q1iyn42D6AD1qtBThVsYtfaTWMKUwU2KAHEEPfY_L3RQku9hrdxWN_FCgVTzGLbyvDHyVfxNiVhAtBZaVKCa90sj3TExjk_9AlHAyZcE93-ZWlK7GEaAijzPiqZ4eNg5fqP6mpxFg11AUFPM6t6ICIhvwS_x3m17Zye-X1t2odxKZUzcy7mU8H__3WaRmEP9G9BmUIKUvy3I5prtD3AIV8xRfuvttKDTsacsO1_KaEovTlPsbPe6i8dMuQBb2fukQ7LJKJQRbN0ikwDSQIGmiHMw3eBAvBiYRxxs4KrQ.jpg",
+      "https://cdn4.telesco.pe/file/EBGrNQsUvuw8pUzCVL-_q1Rx1z3EuGelprz0LuIa6KE76cKxenhISJzAnXDUH2-cl6NvsWteinPubF6NYJYncQ9Se0II7RDlzGB7eJy_cKAuR1Au3P-a1-IqBSleQVg6FixOeMWCZQPHb3gmpTjBx0y7kgDjKEkQ_HjdfIUArMeigkK0NnB4AoaYjIyf8u_Wa4T3iFsfpXeGcl1TtI8NufkOZXhVOBGGRTGHkJXqWgznJdJmL7AmJUUkeBytiEoNReT9LZ3ktU3B2JBJE9sUYoWKWvs3Ae9mBzdtSqO995KYyb_tlIqcesimZjvrmTUCrZZSxVjUDgPn10lE1Tv3fQ.jpg",
+      "https://cdn4.telesco.pe/file/obGN11APIag2qe4pQW8RdPATqkbq7FL0OqpIAzxNSPbwM6Zv3RhaCPL-PUugm0MUqGBulEx9yZlQE3qoGl2__MlQMjS2hoGbS5ZvNqCay1ABVluEfOSfG-4jUI6Xq9ZUp00WZcO6XFEB41TIdAYGD9dqDYzKjA7JDH37ZY0fsJdQCBA_eHBv_ZuioaFf-VHgEnjp2WjDFQ9vtRfQkTKQR3U6Vk5K9pk6gBFizCOO0zv80xEEqM4KFu-cLOot5JW5b6mL7SRZ_wC_pxePIiGb2faJXHxHVQV8jFVeQmMByJg4Puu3uhYMxkR09bN_GF13RVj66F21NHEcMYMcGgbXTg.jpg"
+    ],
+    "date": "2026-09-22T14:02:17+00:00"
+  },
+  {
+    "id": "874",
+    "text": "YouYube - https://youtu.be/Qyszn2T6tRQ\nVK - https://vkvideo.ru/video-216848778_456240298?list=f4da70ee5912561a42\n\nПриятного просмотра 🫶",
+    "images": [
+      "https://cdn4.telesco.pe/file/SxqSI-y6fJHbyugxRxgQE9fOokcxEhKtC1KG9DOXvCixBvjtOeTmgIJrAq1mBgnrGh7YyZZiqQaocEII4h1UI1YbnVBZqPgszYxsDBSE8z3h4xDjKiO17UlRlraJnGESqmCieE5n5UybDOu5pNvuI9WzkiiioQ5m_vLmT__vwT46UT5ratci75sYxgwxSuKynw29T3EGv-UV-40m3K8ktY_qYKVDAl5GXC4mNKeOQ27Gxo2yT9oaeFncJl9XwPut0OjQZC96DiXPrJdRUzLqtXznac71WOUxjkEIWNvxH6hH0AebCyI21gQHk3o6K0KSUhbj3F3pneWsaTEasvUZXQ.jpg"
+    ],
+    "date": "2026-09-22T15:01:53+00:00"
+  },
+  {
+    "id": "875",
+    "text": "Работа в мастерской кипит!🤩🥰\n\nВы всегда можете к нам обратиться и мы будем рады вам помочь:\n📍 Заказать сборку или апгрейд ПК можно, написав нам в сообщения группы HappyPC Питер или в Telegram: @SPBHappyPC +79313443444\n\n📩По вопросам обслуживания видеокарт/ноутбуков/игровых консолей можете связаться с нами:\n- написать в сообщения группы ВК HappyPC Питер или в Telegram: @happypcspb +79040444444",
+    "images": [
+      "https://cdn4.telesco.pe/file/Yb8K3qLSp3AFoaxBE0xsZDeavUtrwlIr4NkATOvTs1i5MQRzZPhIdgPvmIbVzbpSIT2OKypP21_ZzSEmqqkDfxbk2ahyBOAlL_fmdDXayVUgmTl5vlBeRoK1i239Nshud8sh8BMz7ajuOylIUrB7HVFGYvjhBrmRJgt8u6DNfuRDeGw8QieE8ymp6XE-_sTUH2bKE_5dDj3FSXQzflCMDqVHLy-jlOo_lXzB124TYg89n8N1Lix0QbcADUfQa6_IOU3LPkp0yFrfvwSkSdSWg_XmU2lMcUcoKz33oPhRuQkDHdNXk2AdOgnD-Brk6fBjC4hrWdBvfXfwWZEAFmo3wQ.jpg",
+      "https://cdn4.telesco.pe/file/SOCihH9txUOx6FMQREgDxU4hQt0borvcgMYKTCsRveagJI3C4g3Zwg0SweALiSfBxJnI9QpELXk5Q1eHWA-dgqmAsP5mG9fZ4e5bt3lRVuCk8O0BrJe6GtuEfjweyQiOi8SSAQPL8rRfTD7TVivLqHZxWm2GgRXzKqVun7BuBqZIZ9_Ww-beE8npelyKv1Im_fTxcoqNbxd77SLV6z_lKQc2QWMwc4x-ZWrHWXtr8-5l3z3bjZrxzQ7GIYoV0HhekJhN4PjajPNxhak7-YRWfVhhJzXk74KHhNDvhcibY394Rk900yIhQzTUsZTRnM9D8tfdJOw07hRl-bcys9l-Lg.jpg",
+      "https://cdn4.telesco.pe/file/iCMLug4AWadoACJamENDRRV7JsZHPb5lJAG4WTcs0LOnRnOBvynysbH2uqGnty5gtWUDs-LWP0cE7192InXqIFNGMZ3U7jRyxg0AqTA1xWC0AumSHcClVnfqeJrlpAvOLKVmH6Fj3FP7FCWopk-6bTm4xQ0Sh8SwQIhLP5nr1i1qM6AxJplIYpO6JP-dKDG1EuA6g1lYXvGYItB7cuFBVmpnn8Sn7xX0J6hlRsOtQ5q7TBs6yaAR64MHhATNBcSH5vm34Vg9JmE8M_dVetTqDs1T2nBOQ6I4PDZ7Y00gJ_wEZ1EvdzCZ4s0_l8rRnALNtG5L2pPko6XUH9oDqqCzMQ.jpg",
+      "https://cdn4.telesco.pe/file/o7Q68Y5bN3zJbiufC5D5brvkE1CDrS1J4EEeMc8Z33kAxRLmb6Q-ndxRS3GJgF115yN9JR6anH3WEqC9ZhHgJCZK7-j5VCeTvyNpYqf7P4hKE9PfJaYWhY43mt5kuo_rFqkY3FNXwmImY8P_W02dUzmq_L5an0HKrTKDNtZAYAu9prHfjCfOvX7q2_QGPauAjY0APxTUW0HmvAoCdOfLyiz6FORFujV7tPcjdqH4z3cyDFvi9Ya2cFEeXJX2ccRW8LB6aif4ZCejaoO0SqqX6OuCfWmFzsiZidubwNC_SF20Dm3rxYFtHAqdmGDgI4pPxazUGy0304kKN3gcrYv2hw.jpg",
+      "https://cdn4.telesco.pe/file/RgPMWqsBIx75RRpUFhmRSVQP1GLybYGy6phq7uHDV4zgg7vuCPwNu-gpgp6qEp0vRdviodFMtk_nOs0lzY84bOakc-ZEp7xBF5NXdFdA9bz3DONgx1sUxDpSneJfrRB5R_lsiiH9_J-DKuVjz9azhLor8_n604yhSGKzXYo-drk3Mtas0eP3_93aV-vm_YJZKJ8HRH9PQoaEzPYaWGzOtC6URTK_aaqoPuG9WmE4ZdWDqJBHZPuj5bfsWDtYKFMV4FOFV0GNK8d_NYdunRxgvcaXAEWvxS7RRCbMcWd9SESFPQZgMmZLq3Nm6XMb-CvC2arxPZ5jiEGU52GXTnIXTg.jpg"
+    ],
+    "date": "2026-09-24T15:29:58+00:00"
+  },
+  {
+    "id": "827",
+    "text": "Саня опять творит какую-то непонятную штуку😁🤔",
+    "images": [
+      "https://cdn4.telesco.pe/file/O3XwgY0a7cc4EIbdUrbI6LsxjBiR84VLXxbgk1cxWfPVnHq0jU9PaadQraqiOf9N7KankR-MgdX0gNTCiJp5w6avfc1BWFfYoy-u13IRKxIO8Ka0DWPkbsc1hJv2gjuPNwhETtQAdjcBDmR-FkdGfM7g4S_b1_l7fICl0cenr_DoYVXzRQmaGBmrUhc7bn0ok70X6Jv5mIwToL0paLUIeeq7v4zquagd70uFDfa26plA0OZgrKfAlfa0_bpuobeXiws7idRJfQryviuEEPC2sJiPnSwZ9gyMcts9jQlbIuvmOJQ0AR-2GxAekbl0oxt30tW5Li3KVODXAcVWo1fMdQ.jpg",
+      "https://cdn4.telesco.pe/file/P10jKZFyxk4jTM_Aa7yzVn_XKtuHcixsfdY1SUu0VeLwtbba9TZehD6PCxFIXNsgYGPSks3ONNrLAwRpgfc6SHqhOflsDzksNNRCcQJ83GKFrrLEihyRlMd2vjkkG-uUJA1wRuUm9rIkjkHVMJVxeMjllEpgKc08X6NQFkhzzR6Dbhy2nrCd6AOaxYNtVkv4z33EhYWd53YfOysMNNr7Tt0HqYas9wUw9ZqLarWwyN--KdxXeCaPYeF-x5Q8a_EuJmV9l98ErnnzdsqOMiiQRp71pAtAFH9cIIvFuwLF7dduESWlH52CvA2zXVz2QkWg_ej2kUKuiPbzQ8uySigbWQ.jpg",
+      "https://cdn4.telesco.pe/file/LCX58cOlQOGUzQV6YtLC_ScF-AyINMuLBh4J_So71wAeU8CTKhaC_uIq5rfL_KCVS4lCoxKNfDTnqgqQzgDg9KKAh9eLwyg91wN5zU4DX8bbgbr7s0ITrNseHGbRtPA4MGY-roX8Co29RyU5U7gxvrDRSzpbfxOX03u3IF5ftTQ6zJwdrxnRi_VQ0Fm_S4kjvM2kaXMBE0FyoBlpaQIbKkhcEgGNpdQu9w2nDIzdpt2J-pCD2QBYJhguiRsso6NZMzh-P6TqkFyk7X-hUX3mXNlFEGi2_PxmGQ8Cx-l5ZJiydpVTvSBEQWMg40tGVX0Q2y2DvavKwx0OJPMKOh3TlQ.jpg",
+      "https://cdn4.telesco.pe/file/p2AV_JL95H7hPwby53dNLG4yiF76prHqduxk3G3ds8EmhPca2-riBCt2svPz87EMfjWgwakAUG5AQCW4XUwrVpxiz7Fzabrj4UZbPi6QlSsTTCpAokFeEOFT1K4yfSaFZ5_LjKJJqO815lT1CKnqFjhnoEJ61W79BLC6n6iM_LrgqDXrnEKDSWveRfDXzNkp2uSWbMbiqYzvcZPyWU7qbcGpmC4amH-7bym6TEwjEM9P2acmp6NwvC5TO22ghs6LM3mdN-czeMy3n6RQNglK_oQxElCBCDyx1OVEo69QhX8nlU-rjnyo88x_2EP1zIIXf3R2VyFDA5Cfu80fEs1MAQ.jpg",
+      "https://cdn4.telesco.pe/file/v8ChlfUY3vXTb9NAzc0fC_55D3X4OW0VppZXlaOhQKyF2WTc2nxM9_D2zvMmYf3YxhdzJNVVExwjuNC3pDaJEx516CMzJ3hCWpVxn_XS1egpvOW8laO8--cf-fCwIAjuAgecKSk8HRsyI_OiwdSf5HpqJGdnwG0mKWFs2ega6Th1qwBWm24xRpVame_hbX0s0x1jj47c9QObYdzqj6mXqCKb0s47zdW4cGSsayLEbhJyaooPUNi6YclAPWe6T6VXzu62yeaYq47hs1AN7i0GD_edPyD2Oei7aS8ILwDhPxIArwlVU9cAvBW7YL-sTVD-PwKtqjlyzQA0DU4nqH8X0A.jpg"
+    ],
+    "date": "2026-09-09T10:29:58+00:00"
+  },
+  {
+    "id": "832",
+    "text": "YouTube - https://youtu.be/lpO4bQamw84\nVK - https://vkvideo.ru/video-216848778_456240295\n\nПриятного просмотра 🫶",
+    "images": [
+      "https://cdn4.telesco.pe/file/TCm-uYXuxgUhBpTIQHtQnt0Kb2CCy799ZJLvL-ynQ51A2P9NML5-hyZxtQ0j-ffJM3s6vVI_g-BFozAtm0RQiPPuxujEVuAyuI7duojxHg2v53LHDrbuCTs5Jcc3B4hsj6rPHA5AD9pVnrQr3h35vKRsg4kb3VcQHiei2Y9FfKjUH7mx4o8zaeriPT5a6Cg3KVUdfNmB5nVkvNGi-y7X2JmERmvXYHEbsYGUfR_RN6qpGXQdYmLU3PRvfc9KrfTDZ5czCaPQPRRSt1YK9sluhyUK7v7WRnO92IkocovCqDfAl1GiH2BUfWnreD3hzDfEAT0fCpPOAZ88tFZyDya-wg.jpg"
+    ],
+    "date": "2026-09-09T14:17:52+00:00"
+  },
+  {
+    "id": "833",
+    "text": "Ламповое видео под конец недели)\n\nYouTube https://www.youtube.com/watch?v=nFwJKDbwHNg\n\nVK https://vk.ru/happypcspb?z=video-216848778_456240296",
+    "images": [
+      "https://cdn4.telesco.pe/file/i43IRJ-46ZBO4w1lUYyAyPuSbsoCVPMVpXfmtmupsck4HFnM7wD2QsCgEZooNYZMCCPcY7l-BodtRvr2SfRulsABOmt1ZzI9l9Q5k-CFcaioxNTXrOgL368M5fpJRZu6yr7Ic5mFGJt5db7wbzRL0BDqaht0J8Jer8bbBeAM9OivI1uhJx9CHW7zqxicdcfZiRMUrFiYf06SMmA22dtGqYiyKqSPb-P4uRTe72O4YW68VLF6NgnwI1S2mUPFyUERLJoIiqtXuStT1NSLhn59JY2lGKlVTME3LzbfWtvyEJNwQbT4grahOYyfSu-asywmykuv7pfE_iuJ7FCKQUV6mw.jpg"
+    ],
+    "date": "2026-09-13T17:07:17+00:00"
+  },
+  {
+    "id": "834",
+    "text": "Необычный гость на столе обслуживания — 8 плашек серверной памяти по 96 Гб с частотой 5600 МГц! 🙈 Стоят как крыло от Боинга. 🫢😵\nС завода данные плашки идут без радиатора, и из‑за того, что они расположены близко друг к другу, они очень сильно греются. «А зачем всё это?» — у вас появится вопрос. Вы сможете узнать из ближайшего ролика!🤖",
+    "images": [
+      "https://cdn4.telesco.pe/file/jjNVBiK6QKsdcIAJ7xL7niJyZEyZnJTtJ6lJKy1kfY1TOTkp3rsFNOULaHgQP1E3FhstuuOQnrwt_pYvyQWCL5ub4Th6wVuI_I67AMNlGhhZpEJHSYhnXMMg0iwwbSoCRVlzWs_f3aBSsLIIBedPadnAbl4nL5bh1GJU87pa09L9AQ6blu2glNP4OQcC4vvB4WQClhiXf8bAZNMC6kjeFDZvMm-o4BA9XvlyVDOqalKWawZmwYuCE5yA5n6ym25mtyAy9tNznrTV5vEKTfk2SpJpzPtauQ2PvDpP7J0ulhf2SeHIk-vq3GOCMcv92THbYyQ7JUBiSNIBzN2LFC3qYQ.jpg",
+      "https://cdn4.telesco.pe/file/R3k9L-WnOvp8i3-c2bdaQVYQquQ2j6ESpkhs-dbcgyHHQVEDmnPvFlN0syWg2RYQpiUJWHAOekOPJha3T4TWNFI492p_P5zKKC90ryxsly4UCD8LzBwfXK900myBYSwk-5z_c4fOuazX4JETlzRreTWO2qLS907P4qaPqFn5J0KSh7bFFsDPKJCNFNh-kNXRv-3pZGquapk1Z5aCX5Akvj30Zxb1cZAfYIq-iUD0VarGLSokCgHuEPbCZjh3736a4oUsvx-tgZRAHlTeI1tqamqKprM8GNBzNwAYxgnAmdmEaXufrvBHMnpMw-tSL0HwgQ_zeMilRP2QtSavVThRhA.jpg",
+      "https://cdn4.telesco.pe/file/DHORoF-PLmpYr7CkdlXLRtF_CUSQ6FwtsicHzWYrv5vlZBlleXQOMR4aeYZ7ciW9nyggVFkqniXBEeWad3WIAas_MWiRTcZLc3NUfcRWWf54zuL1Oz2t_dekGgBR15NINETx_Gm3nCksNnBpHSkdX32R5Y0Lua6WyWr_UUdzB1WvdSReQ_COSKEPJUHB8wjWPzsNBBpabA-bFC0e1EowkyiJeX3OfnschsfCZ_sqHT7kJJhOJmgOJO3PREyg_CK63_J9KvW3fd-qHM727-5Wpggr3uzRBloMc8XWaM-d9rnnS3ZP58UkJpWOQzCxEp3NALcZexiWiyuTJSH6zcOhuQ.jpg"
+    ],
+    "date": "2026-09-16T10:03:54+00:00"
+  },
+  {
+    "id": "837",
+    "text": "💜 9800x3D + 5070TI 16GB!\n\nВ основе системы — бескомпромиссная связка для топового гейминга: новейший король игр Ryzen 7 9800X3D и невероятно производительная, RTX 5070 Ti SFF от Gigabyte. Всё это упаковано в продуваемый корпус MONTECH SKY 3.\n\nCделали андервольт процессора и прогнали ПК через жесткие стресс-тесты. Результат — стабильно высокие частоты, идеальный температурный режим и акустический комфорт! ❄️\n\n⚙️ Конфигурация:\nAMD Ryzen 7 9800X3D\nGIGABYTE GeForce RTX 5070 Ti\nASUS TUF GAMING B850-E WIFI\n32GB Kingston Fury Renegade 6000MHz CL36 RGB\n1TB ADATA LEGEND 960 MAX\nThermalright Mjolnir Vision 360 ARGB (Черная)\nDEEPCOOL GamerStorm PQ850G (850W)\nMONTECH SKY 3 (Черный)\n\n📍 Заказать сборку или апгрейд ПК можно, написав нам в сообщения группы HappyPC Питер или в Telegram: @SPBHappyPC +79313443444",
+    "images": [
+      "https://cdn4.telesco.pe/file/vaoSH9dfZJhKSRPtqltFfCTNceILPvGRzHvdzyJOtphooyItg079iGZ5yxqDRpDIWmrynf9uDllnnm_Q53WwouLHFDoWfQQpQrECCMkun_Lwj_MWySxoNJNMF09aOcxVtXZduv9nTIkpYCkxtXbTqya1afJUQCi7iz2H_YXZsEjYlQfASqNBemIG5fiFEydHfFsDlwKh7_O6eS66_jSoyg1xbfzEHP-LGcKCT-7E7Bmjk-tqA5ChYRB_aqYgm-_E7lJ9_e91VdHz9pW6sioOzhA-5u_0DmwYyQxxrLbNA_uAo1CQHs_MGa4y6ct9keIrig3acCy63KKkpeumL1Xtow.jpg",
+      "https://cdn4.telesco.pe/file/Irdys1mKgY7WidUMHkeTQUrTw2K7QGeGllrcLvo3Dh30bo0mCw8aFAQna8Q2Glm46OeIvXaBTp2CcJoC4U0I3u4656RvrJPNXxzHfTZktsLsBKEpSEK6Zu9qCCbzQPLdXab3PiQzAwC0odZBsit_vhg13om--7kP9Z5bvYvf8CH4krkf0MjMPk5-Ak8uBnPHhuLT2-nJ46JQyn2ip6JXxBqapub2PGq0_ypRBqfVrf1YVz3ruXXbiyxqwFX4E2JB6AbfWv1CQpVrk44EYBxHkK6_5R2c7QYafqtiOt9gw1MbNIDeGN-6LWQyHeD2dVYRQ_BTThQnOit23fyyGwQSPA.jpg",
+      "https://cdn4.telesco.pe/file/Ixv5y0OcMuNzuxBCjkXM87xuQYgP_IBGI9MXNcLHyZb2Rqv5HEi9GpkPiNYX_PmfKyoL53wM71VaviAD_ecDHP73tIqAg3wdc0-Sk13vWacGcE4dgjqA2auqrVZhnmlFCERnL9agF_yDWL1Og4ySZ2JEfBYp836K4D72SGVewFxDRJNYVcyviTR8cceJEXpE3NhdPLYMD1-EHsnAEztXLTLTPKihwqbFrIe93iO9_lDixuV836it0q1F1FxNz570i0Hl4hf6mrzhdiaxqhIehqn5Ki6cBkH6Lj7Wo2asjHkUpk0QqdN1W7ebaxG12KPRGbqZ-u6sji7GRin5Mi--4A.jpg"
+    ],
+    "date": "2026-09-16T14:44:35+00:00"
+  },
+  {
+    "id": "840",
+    "text": "Обслуживание MSI RTX 2080 Super Gaming X Trio - одной из топовых видеокарт своего времени. Похоже, что на ней ещё был заводской термоинтерфейс и карта не вскрывалась до нас. По фотографиям можно увидеть, насколько много силикона выделяют родные термопрокладки, которые кладет MSI. Помимо этого некоторые из них имеют неснятые пленки со стороны радиатора, и это не единичные случаи, а данность исполнения. Термопасту в некоторых местах сильно выдавило, где-то она высохла, а где-то расслоилась. Отсюда высокая температура Hot Spot.\n🌡 GPU 73° ➡️ 68° \n🌡 HotSpot 104° ➡️ 79°\n\n📨 По вопросам обслуживания видеокарт/ноутбуков/игровых консолей можете связаться с нами удобным способом: \n- написать в сообщения группы ВК\n- написать в Telegram: @happypcspb +79040444444",
+    "images": [
+      "https://cdn4.telesco.pe/file/ZC1NRn0VW1HglQ8QVZSAZ9OL1Q8GCmOpEd39l4BVQYhRQyIAuJyAY3HzI0DJm01G1iie0bH1G8aMb0nTO06ySgo9FQarBVUEiHeNhRit58hE86GQm9jK6QGQNMyANcZZC2HYiG9FyIJ_F5DsrpZIhG4UsvU0SJygUxkKsymZJ_cr4FWwxmUc-H34_BFXWBcgUCxDXRKZpbelHOH9KAZi4mZDSjyACFRPcNCzMvoOIw_Jsps4B3ChnCd0FoPXFGV586e_JumyEdIxMoUsOdgy_0aKbU0Utow6M3YDJh4kI8Amvag-CjFEOUOevu562qmrVX25hMKDLj4Pg-rOAtk3tg.jpg",
+      "https://cdn4.telesco.pe/file/N52ophNUGNq1nDbfzVtJ17quampOkE_UbbOoAzwW1NuoLKUgOWO0LrognN4bBn1YeqDKKVpHVbmHsXOTz13eyhFemElTymJdHWRFgHXcfzMROdiQ5dmRXX1a9_PF3tUg7MZFHzlBP8Fg2KsrMHCg0LL6dSJ0F7_h4q5Nb0cm6jciCht1RYclmnJHjO3Acq9IuOfYgWRMxj-v9vGP1itKGDCx2aK0yPSMmUKx-QlozUx_RQMa7FJHNpfCRoUeQWxBnSMaxyUVy9Z4Nsj5_LNGvOmfxpRxKUTHJhCX0oxdRJ1sxgP1tef_McH3l8bRfDtp3t3T9To5NDWZdJD1v2klXA.jpg",
+      "https://cdn4.telesco.pe/file/Sh3uwiAb9QbcLjF3T_GepsNOA48HOuZTUMH96_Pwtw_bhGkWZc8voY5HicKUwfavdUi9UqKtuptojstR6W1mNWCHEWShXb2gjWevctDroAQa96KhZwTBrQ41wmHcq2OIGSI0rCrpMri1AHWPkXL5dwJs2Ywn8ygW49NP3LmY8Qj4BN7ZKAYT29gzPvHzuCYenJaU2Cus6oWtBz_eLdgD3ot8Routldic4Dvz_I6QpOF4mu2mK9KVYmSj91Q81rxT84FTgWdXY3yzxtPWZ0MOVPfeKdXNK1QsV0cT9Qcygp6zgsqvFmsqpaTnTfab2cY47qUWn-27u5Rr3yehRJHcaw.jpg",
+      "https://cdn4.telesco.pe/file/sQeRG8InOATVrbn_Buin4Ab-gj2vLhHlm142ENUIJ86BIG-fJ1MO8Dpd6yOgkJpvlGdd4IAn6_4JcEt2mpCEAPf__OP_f2fjCxfD8AGYyf3MXCH6_mLIukpu7iuMq-IrM0eyW6SzJ0_YedXaAUqUamjspf7k_1UGUJ2qphAFJFWzP7v7-5f3bnGK8SMQkaHWgww8Q_BSbWq_z8ddJE8KxmPbvZgmiKui_0u9SGlythxYTi8nRX0zh4uMFpVbZFb9VQahhYtrENPSUBUaRDEtuWQtLBvdh9rdrMzf2hktlDUBQw75W52ZcBo-zYtBgNpTOfmVmz7A5wRJ2LG0wu1o0A.jpg",
+      "https://cdn4.telesco.pe/file/SsmqPYg-9JoYUFlFZnZUj8boIaB6Z0hVB3TFPgzNeNmiVU7BRiB_NBO-LNtmb32ojTBdy0dbc2dgYxdKBH3Wsoah8lGMAE1F703NK-SZKjoZ-OFLpSeArCaKR8igKE4pvonmKioiTnl0VDnV7QB_ZCBrLqGWxRyOdHgbtkh-iE9rP7FQO9_SG0NhvG34HU9w6B4vwcqldoz-EnqERmLSl9FWm5N2BZCQygugzfw20judPOMPVGuEzbiouhBS8GBxaW23NQ3m2cEUjtQGEsDb_xRYD65B9Es0U4al5LerGoosz02FF5NPcvEheF0yx3nOnHM7Sq43x4Fg86fXdCB3GQ.jpg",
+      "https://cdn4.telesco.pe/file/GF5kK9eS_V2ADBCwT2RzkIfv63yEdduNpER2ZJcDGFIHUzhkdZbymLkV34yIXJo8ypnRk50eZSrSTQvrg3f2oYoTHDVxJ_4XHi9bF-5atG4FzM3pCkGPLO1RF0or_L0LFWWfKcJ_oJJ4XNfYSAPkyUeCPLKjRCsk3sLGITNIULgPt-Ri44eS_xeXZ1Z92ZPiMm994ztni22R5QzmbGjuwdVF6G3OV7IVaKp2Qlk4V0UGC4JHW_bDI8kdcsUpmxt3E76Fx_FVUfbJIsRCMFHYJbD9-lPimdnRpYzUpUh11KvuMrdTsPB73iIkcmzPvIsrNCdxUKEQvUZ80mAk7WMLDQ.jpg",
+      "https://cdn4.telesco.pe/file/IDXeQfWwC9u_MACiQk3ml-q01oewH6kmugPO28XZDpUtfiLHFieMvmX43CwwkIA6eYvDkb_sXaERyYqBAr623V8YTpm4Oy2L1s5fVFIKYZ80q10yKludME1UHJHoTWuTUlURULdvoYuNsOmMqQobfiorOddHQG0XL3FAFLqVi98hOV4u9KOXwAMxDP4Ne1IylGlnuoLf-prUd2t-R33iR8mxfulE7Ltzqh8KgRL-C5C-EDZnr8WGsV5ySOTxtsgo2ZueponBztYnDZw_wwXq-w0vSuWmr7GxFcBM1YdlM9ln9D8zHmbO014aBDcY_fgr6U0S_TXVcWpIqf9SMPs0-Q.jpg",
+      "https://cdn4.telesco.pe/file/pnMdpO6pYh-sgU0Je9w_PZfHGi43qt2ttlMhpEiJlTnAk73XkUTfa__vc9u5BwgqSwHVMHL4bgKyA49ZmBdQZ2LO1doZ6CmjoaK_fe7H4kxP9i5FngvZPZTfn12WY205j2JIFE9YYlbiDhMLm4atP5_P_iXqequgPl1WSacf84wViLCeWF0TNLO7t_aF1N5XKVRGGMXbXWkolhTHSvsn-uFkzKK3h1uxBBCIHVqSMAw1T488q-RgiYzJXvDq6gO-8ZifcPsS9SOOUWZgrRxer34423_wbouRIZO5uUy1vWFJupDU76sv5ghsGAEU6oFsNQI-yYrB6wRJwL9thHnzAg.jpg",
+      "https://cdn4.telesco.pe/file/q8amebKWr903xoWghY658FhuCTtUFuvDTwjU4_X-gEGLzXeM1x7X48RIyJlBlP0b4lPjRlwA6q8ohvazR56qb0gN0nQ12sBQUjp28yYeYqTKB-nnO0tnAP7Aj8qX5MzGMjgDsLuK1lMKuWJ3Tq4nY68zaDNKjMP89eIBWyAv7FylHLp6HJXbP-lpNfkt-1eDDWlZ5s1oo8A1Ia7iOG_fE26-BMbNcGZyEgKf5RYjWwBuCcG3BRyPTzjjgTNRj6W7UwijiRWDt7BUpi9VnkXURWI8hrgiLDz-tbzf5sTHSD4QsUHFYAiaRQtXse2hdKKV1jOxxnwVu46Owzw1_oOFZw.jpg",
+      "https://cdn4.telesco.pe/file/Oakpe_iJGOD6tPFeTyqbogsJbhXEcF9hW0PWO9ezdGqHt_ypW2_HK3CVTGfhzEVUT53vfRQBQDfx0Mf5NHP8DdFw_IwtX6MGhRHqaFxbOzw0wBQUc2PvWR2ykSV6AWRNVrGnTXzaxrPdhKHgo_mAh5j0dA4dpCCtlcrhLRF6hMsMU-9i3ylyuLLOxoPkZViIhcjGyDGpgq5KlA9HFojo3KqFpf-qLpq_blv-VSdoPaO-F5rAB8QO_GCuAeZ877qa07SfvR_VaMjLU6V3pLIh2oa--Xk5g2tYBbGy5_OWbjP1iHzDdQaJVO-_3WU4OHrVN0m2jgPFmXW6uWQmDNH2Bg.jpg"
+    ],
+    "date": "2026-09-17T10:59:58+00:00"
+  }
+]

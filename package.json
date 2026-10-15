@@ -1,0 +1,13 @@
+{
+  "name": "happypc-piter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "check": "node --check src/main.js && node --check src/data.js && node scripts/verify.mjs"
+  },
+  "devDependencies": { "vite": "^7.1.0" }
+}
